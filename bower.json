@@ -9,6 +9,7 @@
 	"org/cometd.js",
 	"angular/angular-cometd.js"
   ],
+  "ignore": "",
   "dependencies": {
     "angular": ">= 1.4.7"
   }
