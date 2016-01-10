@@ -1,10 +1,8 @@
 {
   "name": "cometd-angular",
-  "description": "cometd-angular",
   "version": "3.1.0",
   "homepage": "http://cometd.org",
   "license": "MIT",
-  "moduleType": "globals",
   "main": [
 	"org/cometd.js",
 	"org/cometd/AckExtension.js",
@@ -18,9 +16,9 @@
 	"angular/angular-cometd-timesync.js"
   ],
   "ignore": [
-		"/.*"
-	],
-  "dependencies": {
+    "README.md"
+  ],
+  "dependencies": [
     "angular": ">= 1.4.7"
-  }
+  ]
 }
