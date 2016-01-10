@@ -18,7 +18,8 @@
   "ignore": [
     "README.md"
   ],
-  "dependencies": [
+  "dependencies": {
     "angular": ">= 1.4.7"
-  ]
+  }
 }
+
