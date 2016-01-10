@@ -9,7 +9,7 @@
 	"org/cometd/ReloadExtension.js",
 	"org/cometd/TimeStampExtension.js",
 	"org/cometd/TimeSyncExtension.js",
-	"angular/angular-cometd.js"
+	"angular/angular-cometd.js",
 	"angular/angular-cometd-ack.js",
 	"angular/angular-cometd-reload.js",
 	"angular/angular-cometd-timestamp.js",
