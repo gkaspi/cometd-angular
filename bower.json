@@ -7,7 +7,15 @@
   "moduleType": "globals",
   "main": [
 	"org/cometd.js",
+	"AckExtension.js",
+	"ReloadExtension.js",
+	"TimeStampExtension.js",
+	"TimeSyncExtension.js",
 	"angular/angular-cometd.js"
+	"angular-cometd-ack.js",
+	"angular-cometd-reload.js",
+	"angular-cometd-timestamp.js",
+	"angular-cometd-timesync.js"
   ],
   "ignore": [
 		"/.*"
